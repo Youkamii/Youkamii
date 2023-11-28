@@ -1,12 +1,12 @@
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/Youkamii/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii" />
+  </a>
+  <a href="https://github.com/Youkamii/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Youkamii" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii)](https://github.com/Youkamii/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 <!--
