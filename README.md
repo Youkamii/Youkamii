@@ -2,9 +2,9 @@
   <a href="https://github.com/Youkamii/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii" />
   </a>
-  <a href="https://github.com/Youkamii/github-readme-stats">
+<!--   <a href="https://github.com/Youkamii/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Youkamii" />
-  </a>
+  </a> -->
 </div>
 
 
