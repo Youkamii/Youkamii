@@ -88,13 +88,12 @@
 - 개발 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/react-black.svg?style=flat&logo=react&logoColor=skyblue" />
 - 사용 기술: <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GPTAPI-9370DB?style=flat-square&logo=OPENAI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING BATCH-DCEDC8?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-
 ### 개요
 개발자의, 개발자에 의한, 개발자를 위한 CS 면접 준비 퀴즈 사이트.<br>
 개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
 팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브 소셜 로그인) 모두 이용 가능합니다.<br>
 - [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
-    <br/><br/>    
+    <br/><br/>   
 
 </details>
 
