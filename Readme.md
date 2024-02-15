@@ -7,6 +7,6 @@
   </a>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Youkamii&orgs=spartaSpringTeamA6,StudySpringAlgorithm,spartaTeamTetris)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Youkamii&orgs=spartaSpringTeamA6)
 
 
