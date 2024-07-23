@@ -14,15 +14,23 @@
 
 ### Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/JPA-EE82EE?style=flat-square&logo=JPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING DATA JPA-DEB887?style=flat-square&logo=SPRINGDATAJPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRINGBOOT-808080?style=flat-square&logo=SPRINGBOOT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING MVC-FFC0CB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING REST API-9370DB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING SECURITY-98FB98?style=flat-square&logo=SPRING SECURITY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING BATCH-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING CLOUD-2D8852?style=flat-square&logo=SPRING CLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING DATA JPA-DEB887?style=flat-square&logo=SPRINGDATAJPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/JPA-EE82EE?style=flat-square&logo=JPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING DATA JPA-DEB887?style=flat-square&logo=SPRINGDATAJPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRINGBOOT-808080?style=flat-square&logo=SPRINGBOOT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING MVC-FFC0CB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING REST API-9370DB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING SECURITY-98FB98?style=flat-square&logo=SPRING SECURITY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING BATCH-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING CLOUD-2D8852?style=flat-square&logo=SPRING CLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
 
+### DB.
+
+<img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 ### Platforms & Services
 
 
 ### Tools  
 
-![](https://camo.githubusercontent.com/cfd7b7525845a55b6632abd2c1e45856ce2c9996a108bb6642f4a4da72d2ec8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534c41434b2d3145393046463f7374796c653d666c61742d737175617265266c6f676f3d534c41434b266c6f676f436f6c6f723d7768697465)
+<img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+
+### Collaboration & Documentation Tools
+
+<img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 
 <!-- <div style="display: flex; justify-content: space-around;"> 
