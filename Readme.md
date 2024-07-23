@@ -72,7 +72,7 @@
 
 <div align = "center">
 
-[DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
+## DevQuiz
 
 </div>
 
@@ -83,7 +83,7 @@
 개발자의, 개발자에 의한, 개발자를 위한 CS 면접 준비 퀴즈 사이트.<br>
 개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
 팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브) 모두 이용 가능합니다.<br>
-- [사이트 바로가기](https://devquiz.pro/)
+- [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
 
 </details>
 
