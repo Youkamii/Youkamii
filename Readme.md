@@ -54,16 +54,6 @@
   </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; background-color: #20232a; padding: 20px;">
-  <a href="https://github.com/Youkamii/github-readme-stats" style="width: 38%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="100%" />
-  </a>
-  <a href="https://github.com/Youkamii/github-readme-stats" style="width: 56%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Youkamii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="100%" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="width: 94%; margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="100%" />
-  </a>
 </div>
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
