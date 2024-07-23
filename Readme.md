@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
 </a>    
 <a href="https://github.com/Youkamii/github-readme-stats"> 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.8% />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.7% />
 </a>
 <a href="https://github.com/Youkamii/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
@@ -69,27 +69,11 @@
 
 
 
-<a href="https://github.com/Youkamii/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
-</a>    
-<a href="https://github.com/Youkamii/github-readme-stats"> 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.8% />
-</a>
-<a href="https://github.com/Youkamii/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
-</a>
 
 
 
 
 
-<br/>
-
-<div align = "center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoukamii&count_bg=%23BD43FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 
 <!-- <div style="display: flex; justify-content: space-around;"> 
