@@ -67,7 +67,23 @@
 
 ## Projects
 
-[DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
+<details>
+    <summary> DevQuiz </summary>
+
+<div align = "center"> ## [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) </div>
+
+- 프로젝트 지속기간: 2023.01.04-2023.02.07
+- 개발 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/react-black.svg?style=flat&logo=react&logoColor=skyblue" /> 
+
+### 개요
+개발자의, 개발자에 의한, 개발자를 위한 CS 면접 준비 퀴즈 사이트.<br>
+개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
+팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브) 모두 이용 가능합니다.<br>
+- [사이트 바로가기](https://devquiz.pro/)
+
+</details>
+
+
 
 
 
