@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/GPTAPI-9370DB?style=flat-square&logo=OPENAI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
 
 <!-- DB -->
-<img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/REDIS-FE2E2E?style=flat-square&logo=REDIS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>  
+<img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/REDIS-FE2E2E?style=flat-square&logo=REDIS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=FIREBASE&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 <!-- CI/CD -->
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/NGINX-01DF3A?style=flat-square&logo=NGINX&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
