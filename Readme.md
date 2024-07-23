@@ -57,7 +57,7 @@
 </div>
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=38% />
 </a>    
 <a href="https://github.com/Youkamii/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Youkamii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
