@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
 
-## Introduce
+## I'm
 
 ## Stack
 
