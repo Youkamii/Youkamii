@@ -1,5 +1,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
 
+<div align = "center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoukamii&count_bg=%23BD43FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 
 
 ## I'm
