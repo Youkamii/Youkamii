@@ -45,16 +45,9 @@
 
 <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/ERDCLOUD-778899?style=flat-square&logo=ERDCLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/VERCEL-050505?style=flat-square&logo=VERCEL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
-<div style="display: flex; justify-content: space-around; background-color: black; padding: 10px;">
-  <a href="https://github.com/Youkamii/github-readme-stats">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=compact" style="background-color: white; border-radius: 5px;" />
-  </a>
-  <a href="https://github.com/Youkamii/github-readme-stats">
-    <img height="190px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" style="background-color: white; border-radius: 5px;" />
-  </a>
-</div>
 
-</div>
+
+
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
