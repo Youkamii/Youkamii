@@ -88,7 +88,8 @@
 </details>
 
 <details>
-    <summary> Blank </summary>
+    <summary> Blank </summary>  
+    <br/><br/>
 
 <div align = "center">
 
