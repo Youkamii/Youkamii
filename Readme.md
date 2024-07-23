@@ -47,10 +47,10 @@
 
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/Youkamii/github-readme-stats">
-    <img height="189px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=compact" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=compact" />
   </a>
   <a href="https://github.com/Youkamii/github-readme-stats">
-    <img height="189px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img height="190px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </a>
 </div>
 
