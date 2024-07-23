@@ -71,9 +71,9 @@
     <summary> DevQuiz </summary>
 
 <div align = "center">
-    
-    [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
-    
+
+[DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
+
 </div>
 
 - 프로젝트 지속기간: 2023.01.04-2023.02.07
