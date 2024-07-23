@@ -84,12 +84,12 @@
 개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
 팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브) 모두 이용 가능합니다.<br>
 - [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
-
+    <br/><br/>
 </details>
 
 <details>
     <summary> Blank </summary>  
-    <br/><br/>
+
 
 <div align = "center">
 
@@ -103,7 +103,7 @@
 ### 개요
 
 - [.](https://.com) 
-
+    <br/><br/>
 </details>
 
 
