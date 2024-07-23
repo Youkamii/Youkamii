@@ -18,10 +18,13 @@
 
 <!-- DB -->
 <img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/REDIS-FE2E2E?style=flat-square&logo=REDIS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>  
+
 <!-- CI/CD -->
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>   
+
 <!-- SVR TLS -->
-<img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
+<img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
+
 
 ### Collaboration & Documentation Tools
 
