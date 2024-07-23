@@ -67,7 +67,7 @@
 
 ## Projects
 
-![DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
+[DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
 
 
 
