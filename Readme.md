@@ -6,11 +6,15 @@
 
 <div align = "center">
 
-## Stack
+### Stack
+
+### Languages
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
 
-## Tools  
+### Tools  
 
 ![](https://camo.githubusercontent.com/cfd7b7525845a55b6632abd2c1e45856ce2c9996a108bb6642f4a4da72d2ec8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534c41434b2d3145393046463f7374796c653d666c61742d737175617265266c6f676f3d534c41434b266c6f676f436f6c6f723d7768697465)
 
