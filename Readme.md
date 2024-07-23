@@ -70,7 +70,7 @@
 <details>
     <summary> DevQuiz </summary>
 
-<div align = "center"> ## [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) </div>
+<div align = "center"> [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) </div>
 
 - 프로젝트 지속기간: 2023.01.04-2023.02.07
 - 개발 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/react-black.svg?style=flat&logo=react&logoColor=skyblue" /> 
