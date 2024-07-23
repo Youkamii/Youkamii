@@ -1,4 +1,4 @@
-![](blob:https://capsule-render.vercel.app/d4929aec-3b46-41f7-b788-7d930c2a62fc)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=purple&text=Input%20text&textBg=false&section=header&descAlign=50&descAlignY=50&reversal=true)
 
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/Youkamii/github-readme-stats">
