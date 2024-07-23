@@ -9,10 +9,7 @@
 ## Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/C-F2636F?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C-F2636F?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 
 
