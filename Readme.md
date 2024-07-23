@@ -1,15 +1,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
 
-<div align = "center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoukamii&count_bg=%23BD43FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 
 
 ## I'm
-
 
 
 ## Stack
@@ -51,6 +44,14 @@
 <!-- CM TLS -->
 
 <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/ERDCLOUD-778899?style=flat-square&logo=ERDCLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/VERCEL-050505?style=flat-square&logo=VERCEL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+
+<br/>
+
+<div align = "center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoukamii&count_bg=%23BD43FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 
 <!-- <div style="display: flex; justify-content: space-around;"> 
