@@ -1,6 +1,21 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
 
+<div align = "center">
 
+<details>
+    <summary> Status </summary>
+
+<a href="https://github.com/Youkamii/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
+</a>    
+<a href="https://github.com/Youkamii/github-readme-stats"> 
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.8% />
+</a>
+<a href="https://github.com/Youkamii/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
+</a>
+    
+</details>
 
 ## I'm
 
