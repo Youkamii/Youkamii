@@ -24,8 +24,7 @@
 
 ### Platforms & Services
 
-<img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
+<img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
 
 ### Tools  
 
