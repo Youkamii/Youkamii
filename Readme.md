@@ -9,6 +9,7 @@
 ## Stack
 
 ### Languages
+![HTML](https://camo.githubusercontent.com/bb3c518d9559accc938ab331d46d7cc602ecc9522536df62fbe2266a2f444840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
