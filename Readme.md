@@ -50,14 +50,14 @@
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=compact" style="background-color: white; border-radius: 5px;" />
   </a>
   <a href="https://github.com/Youkamii/github-readme-stats">
-    <img height="190px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="background-color: white; border-radius: 5px;" />
+    <img height="190px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" style="background-color: white; border-radius: 5px;" />
   </a>
 </div>
 
 </div>
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/Youkamii/github-readme-stats"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Youkamii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
