@@ -86,8 +86,7 @@
 개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
 팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브) 모두 이용 가능합니다.<br>
 - [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
-    <br/><br/>    ![www.naver.com](https://i.namu.wiki/i/UPX5478k5eOc0I22TRgcFWhlu6Sp1Nw-V4SkaIECQoCowybAC9zbTJhb-epG1oP2VL8MutNT14oDXkWyiFA7pA.webp)
-</details>
+    <br/><br/>    
 
 <details>
     <summary> Blank </summary>  
