@@ -88,6 +88,8 @@
 - [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
     <br/><br/>    
 
+</details>
+
 <details>
     <summary> Blank </summary>  
 
@@ -103,7 +105,8 @@
 
 ### 개요
 
-- [.](https://.com) 
+- [.](https://.com)
+- 
     <br/><br/>
 </details>
 
