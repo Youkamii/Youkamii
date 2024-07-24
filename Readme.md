@@ -6,7 +6,7 @@
 
 
 <details>
-    <summary> My Status </summary>
+    <summary> My Status 🦭 </summary>
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
@@ -22,13 +22,13 @@
 
 </div>
 
-## I'm
+## 🐬 I'm
 
 <br/><br/>
 
-## Stack
+## 🪼 Stack
 
-### Skills
+### 🐳 Skills
 
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C-F2636F?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
 
 
-### Tools
+### 🪸 Tools
 
 <!-- DEV TLS -->
 
@@ -68,7 +68,7 @@
 
 <br/><br/>
 
-## Projects
+## 🐚 Projects
 
 <details>
     <summary> DevQuiz </summary>
