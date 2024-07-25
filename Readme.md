@@ -126,7 +126,7 @@
 </details>
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=86&fontColor=FFFFFF&desc=Hi%20😸&descSize=20&descAlign=84&reversal=false)
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=74&fontColor=FFFFFF&desc=Hi%20🫠🫠&descSize=20&descAlign=93&reversal=false)
 
 
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=150&color=8252f3&section=footer) -->
