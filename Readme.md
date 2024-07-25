@@ -44,6 +44,13 @@
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C-F2636F?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&borderRadius=8)
+![CSS](https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1E90FF&borderRadius=8)
+![C](https://img.shields.io/badge/C-F2636F?style=for-the-badge&logo=C&logoColor=white&labelColor=F2636F&borderRadius=8)
+![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=CPLUSPLUS&logoColor=white&labelColor=00FFFF&borderRadius=8)
+![JAVA](https://img.shields.io/badge/JAVA-800000?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=800000&borderRadius=8)
+
+
 <!-- <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/PYTHON-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/KOTLIN-8252f3?style=flat-square&logo=KOTLIN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> -->
 
 <!-- FW LB -->
