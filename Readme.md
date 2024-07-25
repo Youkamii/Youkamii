@@ -18,7 +18,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
 </a>
 <br/>
-<img src="https://github.com/Youkamii/Youkamii/blob/output/github-contribution-grid-snake.svg"/>
+
+![GitHub Snake](https://youkamii.github.io/Youkamii/github-contribution-grid-snake.svg)
+
 
     
 </details>
