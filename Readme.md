@@ -85,6 +85,8 @@
 
 <img src="https://github.com/Junghwan1106/KIOSK/blob/master/%EB%AC%B8%EC%A0%9C%2012%EA%B0%9C%20%EC%9E%88%EB%8A%94.gif?raw=true" />
 
+<br/>
+
 - 프로젝트 지속기간: 2023.01.04-2023.02.07
 - 개발 언어: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/react-black.svg?style=flat&logo=react&logoColor=skyblue" />
 - 사용 기술: <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GPTAPI-9370DB?style=flat-square&logo=OPENAI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
