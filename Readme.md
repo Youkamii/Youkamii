@@ -79,11 +79,11 @@
 ## 🐚 Projects
 
 <details>
-    <summary> DevQuiz </summary>
+    <summary> DevQuiz        CS 퀴즈 출제 서비스 </summary>
 
 <div align = "center">
 
-## DevQuiz        CS 퀴즈 출제 서비스
+## DevQuiz        
 
 </div>
 
