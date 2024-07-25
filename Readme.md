@@ -1,8 +1,8 @@
-<!--
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
--->
 
-![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50)
+
+
+<!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90) -->
 
 <div align = "center"> 
 
@@ -126,9 +126,9 @@
 </details>
 
 
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=8252f3&section=footer&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&descSize=20&descAlign=90&reversal=true)
 
-
-![](https://capsule-render.vercel.app/api?type=slice&height=150&color=8252f3&section=footer)
+<!-- ![](https://capsule-render.vercel.app/api?type=slice&height=150&color=8252f3&section=footer) -->
 
 
 
