@@ -118,7 +118,7 @@
 
 
 
-[](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer)
 
 
 
