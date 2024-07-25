@@ -1,0 +1,30 @@
+name: Generate Snake Game from GitHub Contribution Grid
+
+on:
+  schedule:
+    # 매일 자정에 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 체크아웃 리포지토리의 코드
+      - name: Checkout GitHub repository
+        uses: actions/checkout@v2
+
+      # Snake Game 생성
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/github-snake.svg
+
+      # SVG 파일 업로드
+      - name: Push generated Snake Game to the repository
+        uses: peaceiris/actions-gh-pages@v3.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
