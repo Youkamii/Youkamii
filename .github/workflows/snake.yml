@@ -30,11 +30,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
+      - name: Checkout gh-pages branch
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "gkfkd747@naver.com"
+          git config --global user.name "Youkamii"
           git clone --depth 1 --branch gh-pages https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Copy generated files to gh-pages
+        run: |
           cp -r dist/* gh-pages/
           cd gh-pages
           git add .
