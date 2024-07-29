@@ -2,34 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # 매일 자정에 실행
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Youkamii
-          output: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Generate Snake Dark
-        uses: Platane/snk@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user_name: Youkamii
-          output: dist/github-snake-dark.svg
-          color_snake: '#ffffff'
-          color_dots: ["#393939", "#4d4d4d", "#bcbcbc", "#ffffff"]
-
-      - name: Deploy to GitHub Pages
+      - name: push github-contribution-grid-snake.svg to the gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
