@@ -20,12 +20,19 @@ jobs:
         uses: actions/checkout@v2
 
       - name: generate github-contribution-grid-snake.svg
+        id: generate_snake
         uses: Platane/snk@v3
         with:
           github_user_name: Youkamii
-          output: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: List files in dist directory
+        run: ls -alh dist
 
       - name: push github-contribution-grid-snake.svg to the gh-pages branch
+        if: steps.generate_snake.outputs == 'dist/github-snake.svg'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
