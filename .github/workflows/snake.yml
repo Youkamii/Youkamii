@@ -19,7 +19,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: generate github-contribution-grid-snake.svg
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
+      - name: Generate github-contribution-grid-snake.svg
         id: generate_snake
         uses: Platane/snk@v3
         with:
@@ -29,7 +32,7 @@ jobs:
       - name: List files in dist directory
         run: ls -alh dist
 
-      - name: push github-contribution-grid-snake.svg to the gh-pages branch
+      - name: Push github-contribution-grid-snake.svg to the gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
