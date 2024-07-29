@@ -10,22 +10,20 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Youkamii
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          output: dist/github-snake.svg
 
       - name: push github-contribution-grid-snake.svg to the gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
