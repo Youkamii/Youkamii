@@ -18,22 +18,19 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Youkamii
-          output: dist/github-contribution-grid-snake.svg
+          output: dist/github-snake.svg
 
       - name: Generate Snake Dark
         uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Youkamii
-          output: dist/github-contribution-grid-snake-dark.svg
+          output: dist/github-snake-dark.svg
           color_snake: '#ffffff'
           color_dots: ["#393939", "#4d4d4d", "#bcbcbc", "#ffffff"]
 
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: gh-pages
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY_URL: https://github.com/Youkamii/Youkamii.git
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
