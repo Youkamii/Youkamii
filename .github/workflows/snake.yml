@@ -36,10 +36,10 @@ jobs:
           git config --global user.name "Youkamii"
 
       - name: Checkout gh-pages branch
-        run: |
-          git clone --depth 1 --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git clone --depth 1 --branch gh-pages https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
 
       - name: Copy generated files to gh-pages
         run: |
@@ -47,6 +47,6 @@ jobs:
           cd gh-pages
           git add .
           git commit -m "Update GitHub contribution grid snake"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
+          git push origin gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
