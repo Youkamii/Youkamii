@@ -27,7 +27,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Youkamii
           output: dist/github-contribution-grid-snake-dark.svg
-          color_snake: #ffffff
+          color_snake: '#ffffff'
           color_dots: ["#393939", "#4d4d4d", "#bcbcbc", "#ffffff"]
 
       - name: Deploy Snake
@@ -35,5 +35,6 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: dist
+          # URL이 필요하지 않으므로 제거
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
