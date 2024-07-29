@@ -25,7 +25,8 @@
 </a>
 <br/>
 
-![GitHub Snake](https://youkamii.github.io/Youkamii/github-contribution-grid-snake.svg)
+<img src="https://youkamii.github.io/Youkamii/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+
 
 
     
