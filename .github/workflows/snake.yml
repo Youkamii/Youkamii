@@ -35,7 +35,6 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: dist
-          # 여기에 URL을 명시적으로 설정합니다.
           repository_url: https://github.com/Youkamii/Youkamii.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
