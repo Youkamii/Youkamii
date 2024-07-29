@@ -30,11 +30,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Checkout gh-pages branch
+      - name: Configure Git
         run: |
           git config --global user.email "gkfkd747@naver.com"
           git config --global user.name "Youkamii"
-          git clone --depth 1 --branch gh-pages https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
+
+      - name: Checkout gh-pages branch
+        run: |
+          git clone --depth 1 --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -44,6 +47,6 @@ jobs:
           cd gh-pages
           git add .
           git commit -m "Update GitHub contribution grid snake"
-          git push origin gh-pages
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Youkamii/Youkamii.git gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
