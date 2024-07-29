@@ -24,17 +24,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Youkamii
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          output: dist/github-snake.svg
 
       - name: List files in dist directory
         run: ls -alh dist
 
       - name: push github-contribution-grid-snake.svg to the gh-pages branch
-        if: steps.generate_snake.outputs == 'dist/github-snake.svg'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
