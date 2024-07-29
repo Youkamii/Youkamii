@@ -30,9 +30,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit and push changes
         run: |
           git config --global user.email "your-email@example.com"
           git config --global user.name "Your Name"
@@ -42,3 +40,5 @@ jobs:
           git add .
           git commit -m "Update GitHub contribution grid snake"
           git push origin gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
