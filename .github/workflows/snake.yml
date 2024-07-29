@@ -30,13 +30,15 @@ jobs:
           output: dist/github-snake.svg
 
       - name: List files in dist directory
-        run: ls -alh dist
+        run: |
+          echo "Listing files in dist directory:"
+          ls -alh dist
+          echo "Listing all files in workspace:"
+          ls -alh
 
-      - name: Push github-contribution-grid-snake.svg to the gh-pages branch
+      - name: push github-contribution-grid-snake.svg to the gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
