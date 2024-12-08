@@ -1,29 +1,27 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=50&descAlignY=55&fontColor=FFFFFF&desc=H%20.%20Choi&descSize=20&descAlign=73&reversal=false)
- 
+
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50) -->
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90) -->
-  
-<div align = "center"> 
- 
+<div align = "center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoukamii&count_bg=%23BD43FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
- 
-<details>
+
+<details> 
     <summary> My Status 🦭 </summary>
 
 <a href="https://github.com/Youkamii/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkamii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
-</a>    
+</a>
 <a href="https://github.com/Youkamii/github-readme-stats"> 
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.7% />
 </a>
 <a href="https://github.com/Youkamii/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
-</a>
 <br/>
 
 <!-- <img src="https://youkamii.github.io/Youkamii/github-contribution-grid-snake.svg" alt="GitHub Snake" /> -->
 
-<!--img src=""-->
+<!--img src="h"-->
 
 
     
