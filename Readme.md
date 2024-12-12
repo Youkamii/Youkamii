@@ -40,7 +40,6 @@
 
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
 
-
 <!-- <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/PYTHON-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/KOTLIN-8252f3?style=flat-square&logo=KOTLIN&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
 
 <!-- FW LB -->
