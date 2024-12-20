@@ -102,7 +102,6 @@
 <details>
     <summary> Blank </summary>  
 
-
 <div align = "center">
 
 ## .
