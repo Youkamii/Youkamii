@@ -14,7 +14,7 @@
 <a href="https://github.com/Youkamii/github-readme-stats"> 
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&include_all_commits=true&count_public=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=57.7% />
 </a>
-<a href="https://github.com/Youkamii/github-readme-activity-graph">
+    <a href="https://github.com/Youkamii/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
 <br/>
 
@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
-
 <!-- <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/PYTHON-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/KOTLIN-8252f3?style=flat-square&logo=KOTLIN&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
 
 <!-- FW LB -->
