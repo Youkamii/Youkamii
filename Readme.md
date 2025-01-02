@@ -69,10 +69,10 @@
 
 <br/><br/>
 
-## 🐚 Projects
+## 🐚 Projects 
 
 <details>
-    <summary> DevQuiz　　CS 퀴즈 출제 서비스 </summary>
+    <summary> DevQuiz　CS 퀴즈 출제 서비스 </summary>
 
 <div align = "center">
 
