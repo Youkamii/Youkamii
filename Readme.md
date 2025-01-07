@@ -74,7 +74,7 @@
 <details>
     <summary> DevQuiz　CS 퀴즈 출제 서비스 </summary>
 
-<div align = "center">
+<div align = "center"> 
 
 ## DevQuiz        
 
