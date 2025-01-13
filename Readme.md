@@ -74,7 +74,7 @@
 <details>
     <summary> DevQuiz　CS 퀴즈 출제 서비스 </summary>
 
-<div align = "center">
+<div align = "center"> 
 
 ## DevQuiz        
 
@@ -115,7 +115,6 @@
 - 
     <br/><br/>
 </details>
-
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=74&fontColor=FFFFFF&desc=Hello%20World%20🫠🫠&descSize=20&descAlign=65&reversal=false)
 
