@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=50&descAlignY=55&fontColor=FFFFFF&desc=H%20.%20Choi&descSize=20&descAlign=73&reversal=false)
+![](https://capsule-render.vercel.app/api?type=waving&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=50&descAlignY=55&fontColor=FFE880&desc=H%20.%20Choi&descSize=20&descAlign=73&reversal=false)
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=8252f3&text=Youkam%20Jeong&fontColor=ffffff&fontAlignY=40&desc=H.%20Choi&descAlignY=50) -->
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90) -->
 <div align = "center">
@@ -6,7 +6,7 @@
 <details> 
     <p align="center">
     <a href="https://github.com/Youkamii/github-readme-stats">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&theme=material-palenight&hide_border=true&bg_color=8252f3&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.5%" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&theme=material-palenight&hide_border=true&bg_color=561689&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.5%" />
     </a>
     <a href="https://github.com/Youkamii/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="50.8%" />
