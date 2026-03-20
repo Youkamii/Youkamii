@@ -3,7 +3,6 @@
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90) -->
 <div align = "center">
 
-
 <details> 
     <summary> My Status 🦭 </summary>
     <a href="https://github.com/Youkamii/github-readme-stats"> 
