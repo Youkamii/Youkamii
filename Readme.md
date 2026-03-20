@@ -6,10 +6,10 @@
 <details> 
     <p align="center">
     <a href="https://github.com/Youkamii/github-readme-stats">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&theme=material-palenight&hide_border=true&bg_color=561689&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="48%" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&theme=material-palenight&hide_border=true&bg_color=561689&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45%" />
     </a>
     <a href="https://github.com/Youkamii/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="48%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="51%" />
     </a>
   </p>
 <br/><br/>
