@@ -14,14 +14,18 @@
   </p>
 <br/><br/>
 
-## 🐚 Projects 
+## 🐚 Projects
+
+<details>
+    <summary> 🖐️ 핸즈코딩 </summary>
+<br/>
 
 <details>
     <summary> DevQuiz　CS 퀴즈 출제 서비스 </summary>
 
-<div align = "center"> 
+<div align = "center">
 
-## DevQuiz        
+## DevQuiz
 
 </div>
 
@@ -37,23 +41,46 @@
 개발자의, 개발자에 의한, 개발자를 위한 CS 면접 준비 퀴즈 사이트.<br>
 개발자 및 개발 지망생을 위해 개발 관련 퀴즈를 4지선다 형식으로 제공합니다.<br>
 팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브 소셜 로그인) 모두 이용 가능합니다.<br>
-- [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend) 
-    <br/><br/>   
+- [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
+    <br/><br/>
 
 </details>
 
 <details>
-    <summary> Blank </summary>  
+    <summary> Blank </summary>
 
 <div align = "center">
 
-## . 
+## .
 
 </div>
 
 - 프로젝트 지속기간:
-- 개발 언어: 
- 
+- 개발 언어:
+
+</details>
+
+</details>
+
+<details>
+    <summary> 🎵 바이브코딩 </summary>
+<br/>
+
+<details>
+    <summary> Blank </summary>
+
+<div align = "center">
+
+## .
+
+</div>
+
+- 프로젝트 지속기간:
+- 개발 언어:
+
+</details>
+
+</details>
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=74&fontColor=FFFFFF&desc=Hello%20World%20🫠🫠&descSize=20&descAlign=65&reversal=false)
