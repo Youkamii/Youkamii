@@ -57,21 +57,7 @@
 - 프로젝트 지속기간:
 - 개발 언어: 
  
-### 개요
 
-- [.](https://.com)
-- 
-    <br/><br/>
-</details>
-
-## 📝 Recent Updates
-
-### 2026-02-21
-- 🤖 GitHub API 연결 완료 (OpenClaw 통합)
-- ✅ 자동화 테스트 성공
-- 🔗 Wikipedia API 연결
-
----
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=74&fontColor=FFFFFF&desc=Hello%20World%20🫠🫠&descSize=20&descAlign=65&reversal=false)
 
