@@ -59,7 +59,7 @@
 - 개발 언어:
 
 </details>
-
+<br/><br/><br/>
 </details>
 
 <details>
