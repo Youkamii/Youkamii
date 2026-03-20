@@ -67,6 +67,53 @@
 <br/>
 
 <details>
+    <summary> 민화애 </summary>
+
+<div align = "center">
+
+## 민화 작가 포트폴리오 사이트
+
+</div>
+
+- 프로젝트 지속기간:
+- 개발 언어:
+
+</details>
+
+</br>
+<details>
+    <summary> 사업관리 서비스 </summary>
+
+<div align = "center">
+
+## 세일즈 팀, 사업관리 - 주간회의 관리형 서비스 (비공개)
+
+</div>
+
+- 프로젝트 지속기간:
+- 개발 언어:
+
+</details>
+
+</br>
+<details>
+    <summary> PDF 배포 서비스 </summary>
+
+<div align = "center">
+
+## 안전관리 팀, 모바일 View의 PDF형태 안전 메뉴얼 배포 서비스 (비공개)
+
+</div>
+
+- 프로젝트 지속기간:
+- 개발 언어:
+
+</details>
+
+</br>
+
+</br>
+<details>
     <summary> Blank </summary>
 
 <div align = "center">
@@ -79,6 +126,8 @@
 - 개발 언어:
 
 </details>
+
+</br>
 
 </details>
 
