@@ -6,7 +6,7 @@
 <details> 
     <p align="center">
     <a href="https://github.com/Youkamii/github-readme-stats">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=47157A&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.84%"/>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&count_private=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=47157A&icon_color=FFE880&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.87%"/>
     </a>
     <a href="https://github.com/Youkamii/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youkamii&theme=react-dark&bg_color=47157A&hide_border=true&line=FFE880&color=FFFFFF"width="51.1%" />
