@@ -27,7 +27,6 @@
 <br/>
 
 <!--
-## 🐚 Projects
 
 <details>
     <summary> 🖐️ 핸즈코딩 </summary>
