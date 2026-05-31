@@ -28,9 +28,7 @@
 
 <!--
 
-<details>
-    <summary> 🖐️ 핸즈코딩 </summary>
-<br/>
+
 
 <details>
     <summary> DevQuiz　CS 퀴즈 출제 서비스 </summary>
