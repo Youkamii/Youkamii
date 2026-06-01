@@ -32,11 +32,7 @@
 
 
 
-<div align = "center">
 
-## DevQuiz
-
-</div>
 
 <img src="https://github.com/Junghwan1106/KIOSK/blob/master/%EB%AC%B8%EC%A0%9C%2012%EA%B0%9C%20%EC%9E%88%EB%8A%94.gif?raw=true" />
 
