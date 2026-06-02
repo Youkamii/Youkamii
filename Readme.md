@@ -133,6 +133,9 @@
 </details>
 -->
 
+</details>
+</div>
+
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=8252f3&section=footer&fontAlignY=32&fontAlign=50&descAlignY=74&fontColor=FFE880&desc=%20%20%20%20%20Hello%20Vibe🎵%20World%20🫠🫠&descSize=20&descAlign=65&reversal=false)
 
