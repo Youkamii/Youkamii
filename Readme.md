@@ -37,7 +37,6 @@
 
 <br/>
 
-- 사용 기술: <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/GPTAPI-9370DB?style=flat-square&logo=OPENAI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/SPRING BATCH-DCEDC8?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ### 개요
 개발자의, 개발자에 의한, 개발자를 위한 CS 면접 준비 퀴즈 사이트.<br>
