@@ -38,7 +38,6 @@
 <br/>
 
 
-팀 또는 개인으로 사용 가능하며, 비회원 및 회원(깃허브 소셜 로그인) 모두 이용 가능합니다.<br>
 - [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
     <br/><br/>
 
