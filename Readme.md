@@ -38,7 +38,6 @@
 <br/>
 
 
-- [DevQuiz](https://github.com/spartaSpringTeamA6/dev-quiz-backend)
     <br/><br/>
 
 </details>
