@@ -46,9 +46,7 @@
 <br/><br/><br/>
 </details>
 
-<details>
-    <summary> 🎵 바이브코딩 </summary>
-<br/>
+
 
 <details>
     <summary> 민화애 </summary>
