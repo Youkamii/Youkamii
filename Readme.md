@@ -48,8 +48,7 @@
 
 
 
-<details>
-    <summary> 민화애 </summary>
+
 
 <div align = "center">
 
