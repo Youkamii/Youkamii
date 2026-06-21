@@ -56,8 +56,7 @@
 </details>
 
 </br>
-<details>
-    <summary> 사업관리 서비스 </summary>
+
 
 <div align = "center">
 
