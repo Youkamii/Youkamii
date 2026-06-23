@@ -64,8 +64,7 @@
 </details>
 
 </br>
-<details>
-    <summary> PDF 배포 서비스 </summary>
+
 
 <div align = "center">
 
