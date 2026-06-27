@@ -74,19 +74,7 @@
 </br>
 
 </br>
-<details>
-    <summary> Blank </summary>
 
-<div align = "center">
-
-##
-
-</div>
-
-- 프로젝트 지속기간:
-- 개발 언어:
-
-</details>
 
 </br>
 
