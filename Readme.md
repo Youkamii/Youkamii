@@ -26,60 +26,7 @@
 
 <br/>
 
-<!--
-
-
-
-
-
-
-
-
-<br/>
-
-
-    <br/><br/>
-
-</details>
-
-
-<br/><br/><br/>
-</details>
-
-
-
-
-
-
-
-
-</details>
-
-</br>
-
-
-
-
-
-</details>
-
-</br>
-
-
-
-
-
-</details>
-
-</br>
-
-</br>
-
-
-</br>
-
-</details>
--->
+<!-- -->
 
 </details>
 </div>
