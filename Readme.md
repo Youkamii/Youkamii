@@ -8,19 +8,12 @@
     <a href="https://github.com/Youkamii/github-readme-stats">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&count_private=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=47157A&icon_color=FFE881&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.87%"/>
     </a>
-    <a href="https://github.com/Youkamii/github-readme-activity-graph">
-      
-    </a>
   </p>
 <br/><br/>
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Youkamii/svg?color=purple&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/Youkamii)
 
 <br/>
-
-<a href="https://github.com/Youkamii/promptkarma">
-      
-    </a>
 
 <br/>
 
