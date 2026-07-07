@@ -3,7 +3,7 @@
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=71&descAlignY=46&rotate=16&fontColor=FFFFFF&desc=H.Choi&descSize=20&descAlign=90) -->
 <div align = "center">
 
-<details> 
+<details> <summary> 🐾 footprint </summary>
     <p align="center">
     <a href="https://github.com/Youkamii/github-readme-stats">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Youkamii&show_icons=true&count_public=true&count_private=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=47157A&icon_color=FFE881&text_color=fff&title_color=FFE880&exclude_repo=Face-Transfer-Application" width="45.87%"/>
