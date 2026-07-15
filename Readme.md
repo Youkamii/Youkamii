@@ -119,7 +119,7 @@
 
 <div align = "center">
 
-## .
+##
 
 </div>
 
