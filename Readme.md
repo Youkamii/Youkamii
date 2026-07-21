@@ -14,6 +14,10 @@
   </p>
 <br/><br/>
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/Youkamii/svg?color=purple&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/Youkamii)
+
+<br/><br/>
+
 <!--
 ## 🐚 Projects
 
