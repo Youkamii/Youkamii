@@ -16,7 +16,10 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Youkamii/svg?color=purple&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/Youkamii)
 
-<br/><br/>
+<br/>
+![promptkarma](https://promptkarma.vercel.app/api/card?u=Youkamii)
+
+<br/>
 
 <!--
 ## 🐚 Projects
