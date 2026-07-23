@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://github.com/Youkamii/promptkarma">
-      <img src="https://promptkarma.vercel.app/api/card?u=Youkamii&style=polytope" width="85%"/>
+      <img src="https://promptkarma.vercel.app/api/card?u=Youkamii&style=polytope&v=2" width="85%"/>
     </a>
 
 <br/>
