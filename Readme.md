@@ -1,6 +1,19 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=250&color=8252f3&text=Youkam%20Jeong&section=header&fontAlignY=32&fontAlign=50&descAlignY=55&fontColor=FFE880&desc=AX%20/%20FDE&descSize=20&descAlign=73&reversal=false)
 
 
+<div align="center">
+
+<a href="https://github.com/Youkamii/grumble">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youkamii/grumble/main/public/grumble-dark.svg">
+    <img alt="what my AIs muttered — 최근 내 AI 에이전트들이 속으로 한 말" src="https://raw.githubusercontent.com/Youkamii/grumble/main/public/grumble-light.svg" width="640">
+  </picture>
+</a>
+
+<sub>what my AIs muttered · <a href="https://github.com/Youkamii/grumble">grumble</a></sub>
+
+</div>
+
 <div align = "center">
 
 <details> <summary> 🐾 footprint </summary>
